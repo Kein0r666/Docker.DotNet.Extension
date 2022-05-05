@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Docker extension</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <Version>1.0.1</Version>
+    <Company>Husky</Company>
+    <Authors>Husky</Authors>
+    <PackageTags>Docker Docker.DotNet DockerExtension docker Extension Docker.DotNet.Extension Docker.Extension Extension.Docker</PackageTags>
+    <RepositoryUrl>https://github.com/Kein0r666/Docker.DotNet.Extension.git</RepositoryUrl>
+    <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
